@@ -1,1 +1,1 @@
-# An implementation of co-training algorithm over Educational Data Mining dataset.
+# An implementation of Co-training algorithm applied on specific Educational Data Mining dataset.
