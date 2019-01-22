@@ -9,6 +9,8 @@ An implementation of the Co-training scheme, a well-known multi-view Semi-Superv
 Please cite this paper if you use our algorithm/datasets for your work.
 
 '''
+Submitted on http://ieee-edusociety.org/about/ieee-transactions-learning-technologies-submit-manuscript
+It is still under review.
 
 '''
 
