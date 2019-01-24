@@ -1,6 +1,6 @@
 import Orange
 import matplotlib.pyplot as plt
-y = input('provide labeled ratio: (85 - 90 - - 975 - super) ')
+y = input('provide labeled ratio: (85 - 90 - 975 - super) ')
 
 
 if y == '85':
@@ -17,12 +17,12 @@ else:
 		avranks = [3.25, 3.7625, 4.2, 4.3125, 4.35, 4.575, 5.1375, 6.4125]
 		
 
-cd = Orange.evaluation.compute_CD(avranks[0:len(avranks)], 40 , alpha = '0.05')
+cd = Orange.evaluation.compute_CD(avranks, 40 , alpha = '0.05')
 print("CD distance: ", cd)
 
 plt.figure(figsize=(9, 9))
 
 Orange.evaluation.graph_ranks(avranks, names, cd = cd, width = 15, textspace = 5)
 
-plt.annotate(fontsize='10')
 plt.show()
+plt.savefig('f1_score' + '_' + y + '.png', dpi=600)

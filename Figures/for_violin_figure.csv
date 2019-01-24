@@ -1,0 +1,641 @@
+datasets id,metric,alg,kind,score
+1,f1,"Co(Extra,GBC) R = 15%",Co-train,80.478015
+2,f1,"Co(Extra,GBC) R = 15%",Co-train,74.6214194
+3,f1,"Co(Extra,GBC) R = 15%",Co-train,77.5215192
+4,f1,"Co(Extra,GBC) R = 15%",Co-train,78.381096
+5,f1,"Co(Extra,GBC) R = 15%",Co-train,82.4302135
+6,f1,"Co(Extra,GBC) R = 15%",Co-train,74.1221669
+7,f1,"Co(Extra,GBC) R = 15%",Co-train,79.5650174
+8,f1,"Co(Extra,GBC) R = 15%",Co-train,81.6085157
+9,f1,"Co(Extra,GBC) R = 15%",Co-train,80.4062277
+10,f1,"Co(Extra,GBC) R = 15%",Co-train,74.6214194
+11,f1,"Co(Extra,GBC) R = 15%",Co-train,84.6840498
+12,f1,"Co(Extra,GBC) R = 15%",Co-train,78.1806368
+13,f1,"Co(Extra,GBC) R = 15%",Co-train,80.8247622
+14,f1,"Co(Extra,GBC) R = 15%",Co-train,81.6388105
+15,f1,"Co(Extra,GBC) R = 15%",Co-train,79.7060537
+16,f1,"Co(Extra,GBC) R = 15%",Co-train,79.914324
+17,f1,"Co(Extra,GBC) R = 15%",Co-train,84.040404
+18,f1,"Co(Extra,GBC) R = 15%",Co-train,85.3922356
+19,f1,"Co(Extra,GBC) R = 15%",Co-train,84.6840498
+20,f1,"Co(Extra,GBC) R = 15%",Co-train,84.5791246
+21,f1,"Co(Extra,GBC) R = 15%",Co-train,83.5715673
+22,f1,"Co(Extra,GBC) R = 15%",Co-train,81.6388105
+23,f1,"Co(Extra,GBC) R = 15%",Co-train,81.9012541
+24,f1,"Co(Extra,GBC) R = 15%",Co-train,83.2303523
+25,f1,"Co(Extra,GBC) R = 15%",Co-train,79.2845528
+26,f1,"Co(Extra,GBC) R = 15%",Co-train,78.0883534
+27,f1,"Co(Extra,GBC) R = 15%",Co-train,84.8616544
+28,f1,"Co(Extra,GBC) R = 15%",Co-train,83.0690537
+29,f1,"Co(Extra,GBC) R = 15%",Co-train,83.5715673
+30,f1,"Co(Extra,GBC) R = 15%",Co-train,83.5715673
+31,f1,"Co(Extra,GBC) R = 15%",Co-train,83.5715673
+32,f1,"Co(Extra,GBC) R = 15%",Co-train,89.3698376
+33,f1,"Co(Extra,GBC) R = 15%",Co-train,80.8247622
+34,f1,"Co(Extra,GBC) R = 15%",Co-train,83.2303523
+35,f1,"Co(Extra,GBC) R = 15%",Co-train,84.6840498
+36,f1,"Co(Extra,GBC) R = 15%",Co-train,83.5662651
+37,f1,"Co(Extra,GBC) R = 15%",Co-train,89.5646524
+38,f1,"Co(Extra,GBC) R = 15%",Co-train,79.7060537
+39,f1,"Co(Extra,GBC) R = 15%",Co-train,85.5043241
+40,f1,"Co(Extra,GBC) R = 15%",Co-train,86.211251
+41,f1,"Co(Extra,GBC) R = 10%",Co-train,79.0123457
+42,f1,"Co(Extra,GBC) R = 10%",Co-train,75.8405401
+43,f1,"Co(Extra,GBC) R = 10%",Co-train,77.5215192
+44,f1,"Co(Extra,GBC) R = 10%",Co-train,78.0555556
+45,f1,"Co(Extra,GBC) R = 10%",Co-train,79.2845528
+46,f1,"Co(Extra,GBC) R = 10%",Co-train,73.4345226
+47,f1,"Co(Extra,GBC) R = 10%",Co-train,78.8063161
+48,f1,"Co(Extra,GBC) R = 10%",Co-train,80.3328468
+49,f1,"Co(Extra,GBC) R = 10%",Co-train,78.5401542
+50,f1,"Co(Extra,GBC) R = 10%",Co-train,77.7777778
+51,f1,"Co(Extra,GBC) R = 10%",Co-train,77.3116531
+52,f1,"Co(Extra,GBC) R = 10%",Co-train,80.0779727
+53,f1,"Co(Extra,GBC) R = 10%",Co-train,77.7732969
+54,f1,"Co(Extra,GBC) R = 10%",Co-train,84.382412
+55,f1,"Co(Extra,GBC) R = 10%",Co-train,74.8148148
+56,f1,"Co(Extra,GBC) R = 10%",Co-train,77.4254049
+57,f1,"Co(Extra,GBC) R = 10%",Co-train,86.211251
+58,f1,"Co(Extra,GBC) R = 10%",Co-train,88.3461306
+59,f1,"Co(Extra,GBC) R = 10%",Co-train,82.0454545
+60,f1,"Co(Extra,GBC) R = 10%",Co-train,79.1364627
+61,f1,"Co(Extra,GBC) R = 10%",Co-train,86.3933452
+62,f1,"Co(Extra,GBC) R = 10%",Co-train,80.8247622
+63,f1,"Co(Extra,GBC) R = 10%",Co-train,81.6388105
+64,f1,"Co(Extra,GBC) R = 10%",Co-train,83.5715673
+65,f1,"Co(Extra,GBC) R = 10%",Co-train,81.6388105
+66,f1,"Co(Extra,GBC) R = 10%",Co-train,81.7402945
+67,f1,"Co(Extra,GBC) R = 10%",Co-train,84.040404
+68,f1,"Co(Extra,GBC) R = 10%",Co-train,87.2182062
+69,f1,"Co(Extra,GBC) R = 10%",Co-train,82.769556
+70,f1,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+71,f1,"Co(Extra,GBC) R = 10%",Co-train,81.1878375
+72,f1,"Co(Extra,GBC) R = 10%",Co-train,85.5043241
+73,f1,"Co(Extra,GBC) R = 10%",Co-train,84.382412
+74,f1,"Co(Extra,GBC) R = 10%",Co-train,83.5715673
+75,f1,"Co(Extra,GBC) R = 10%",Co-train,81.1878375
+76,f1,"Co(Extra,GBC) R = 10%",Co-train,79.1364627
+77,f1,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+78,f1,"Co(Extra,GBC) R = 10%",Co-train,88.3461306
+79,f1,"Co(Extra,GBC) R = 10%",Co-train,79.3066212
+80,f1,"Co(Extra,GBC) R = 10%",Co-train,83.9506173
+81,f1,"Co(Extra,GBC) R = 2.5%",Co-train,78.0883534
+82,f1,"Co(Extra,GBC) R = 2.5%",Co-train,72.5396037
+83,f1,"Co(Extra,GBC) R = 2.5%",Co-train,72.6692209
+84,f1,"Co(Extra,GBC) R = 2.5%",Co-train,75.9259259
+85,f1,"Co(Extra,GBC) R = 2.5%",Co-train,76.2833008
+86,f1,"Co(Extra,GBC) R = 2.5%",Co-train,77.3116531
+87,f1,"Co(Extra,GBC) R = 2.5%",Co-train,81.370224
+88,f1,"Co(Extra,GBC) R = 2.5%",Co-train,80.6957514
+89,f1,"Co(Extra,GBC) R = 2.5%",Co-train,74.3859649
+90,f1,"Co(Extra,GBC) R = 2.5%",Co-train,77.6427256
+91,f1,"Co(Extra,GBC) R = 2.5%",Co-train,80.8550623
+92,f1,"Co(Extra,GBC) R = 2.5%",Co-train,77.5215192
+93,f1,"Co(Extra,GBC) R = 2.5%",Co-train,78.5401542
+94,f1,"Co(Extra,GBC) R = 2.5%",Co-train,82.769556
+95,f1,"Co(Extra,GBC) R = 2.5%",Co-train,79.3816157
+96,f1,"Co(Extra,GBC) R = 2.5%",Co-train,79.2845528
+97,f1,"Co(Extra,GBC) R = 2.5%",Co-train,86.8314862
+98,f1,"Co(Extra,GBC) R = 2.5%",Co-train,83.9506173
+99,f1,"Co(Extra,GBC) R = 2.5%",Co-train,78.9902517
+100,f1,"Co(Extra,GBC) R = 2.5%",Co-train,79.7060537
+101,f1,"Co(Extra,GBC) R = 2.5%",Co-train,79.3066212
+102,f1,"Co(Extra,GBC) R = 2.5%",Co-train,88.286809
+103,f1,"Co(Extra,GBC) R = 2.5%",Co-train,80.6957514
+104,f1,"Co(Extra,GBC) R = 2.5%",Co-train,84.382412
+105,f1,"Co(Extra,GBC) R = 2.5%",Co-train,83.8726446
+106,f1,"Co(Extra,GBC) R = 2.5%",Co-train,78.1806368
+107,f1,"Co(Extra,GBC) R = 2.5%",Co-train,84.95027
+108,f1,"Co(Extra,GBC) R = 2.5%",Co-train,81.370224
+109,f1,"Co(Extra,GBC) R = 2.5%",Co-train,78.3614759
+110,f1,"Co(Extra,GBC) R = 2.5%",Co-train,77.0260747
+111,f1,"Co(Extra,GBC) R = 2.5%",Co-train,87.3775276
+112,f1,"Co(Extra,GBC) R = 2.5%",Co-train,87.4370809
+113,f1,"Co(Extra,GBC) R = 2.5%",Co-train,80.478015
+114,f1,"Co(Extra,GBC) R = 2.5%",Co-train,81.2574526
+115,f1,"Co(Extra,GBC) R = 2.5%",Co-train,83.5715673
+116,f1,"Co(Extra,GBC) R = 2.5%",Co-train,82.4302135
+117,f1,"Co(Extra,GBC) R = 2.5%",Co-train,87.1761518
+118,f1,"Co(Extra,GBC) R = 2.5%",Co-train,84.9187527
+119,f1,"Co(Extra,GBC) R = 2.5%",Co-train,82.1673525
+120,f1,"Co(Extra,GBC) R = 2.5%",Co-train,89.7365955
+121,acc,"Co(Extra,GBC) R = 15%",Co-train,81.4814815
+122,acc,"Co(Extra,GBC) R = 15%",Co-train,75.9259259
+123,acc,"Co(Extra,GBC) R = 15%",Co-train,79.6296296
+124,acc,"Co(Extra,GBC) R = 15%",Co-train,81.4814815
+125,acc,"Co(Extra,GBC) R = 15%",Co-train,83.3333333
+126,acc,"Co(Extra,GBC) R = 15%",Co-train,76.8518519
+127,acc,"Co(Extra,GBC) R = 15%",Co-train,81.4814815
+128,acc,"Co(Extra,GBC) R = 15%",Co-train,83.3333333
+129,acc,"Co(Extra,GBC) R = 15%",Co-train,80.5555556
+130,acc,"Co(Extra,GBC) R = 15%",Co-train,75.9259259
+131,acc,"Co(Extra,GBC) R = 15%",Co-train,85.1851852
+132,acc,"Co(Extra,GBC) R = 15%",Co-train,78.7037037
+133,acc,"Co(Extra,GBC) R = 15%",Co-train,82.4074074
+134,acc,"Co(Extra,GBC) R = 15%",Co-train,82.4074074
+135,acc,"Co(Extra,GBC) R = 15%",Co-train,80.5555556
+136,acc,"Co(Extra,GBC) R = 15%",Co-train,79.6296296
+137,acc,"Co(Extra,GBC) R = 15%",Co-train,85.1851852
+138,acc,"Co(Extra,GBC) R = 15%",Co-train,85.1851852
+139,acc,"Co(Extra,GBC) R = 15%",Co-train,85.1851852
+140,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+141,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+142,acc,"Co(Extra,GBC) R = 15%",Co-train,82.4074074
+143,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+144,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+145,acc,"Co(Extra,GBC) R = 15%",Co-train,80.5555556
+146,acc,"Co(Extra,GBC) R = 15%",Co-train,77.7777778
+147,acc,"Co(Extra,GBC) R = 15%",Co-train,86.1111111
+148,acc,"Co(Extra,GBC) R = 15%",Co-train,83.3333333
+149,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+150,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+151,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+152,acc,"Co(Extra,GBC) R = 15%",Co-train,89.8148148
+153,acc,"Co(Extra,GBC) R = 15%",Co-train,82.4074074
+154,acc,"Co(Extra,GBC) R = 15%",Co-train,84.2592593
+155,acc,"Co(Extra,GBC) R = 15%",Co-train,85.1851852
+156,acc,"Co(Extra,GBC) R = 15%",Co-train,83.3333333
+157,acc,"Co(Extra,GBC) R = 15%",Co-train,89.8148148
+158,acc,"Co(Extra,GBC) R = 15%",Co-train,80.5555556
+159,acc,"Co(Extra,GBC) R = 15%",Co-train,86.1111111
+160,acc,"Co(Extra,GBC) R = 15%",Co-train,86.1111111
+161,acc,"Co(Extra,GBC) R = 10%",Co-train,81.4814815
+162,acc,"Co(Extra,GBC) R = 10%",Co-train,76.8518519
+163,acc,"Co(Extra,GBC) R = 10%",Co-train,79.6296296
+164,acc,"Co(Extra,GBC) R = 10%",Co-train,79.6296296
+165,acc,"Co(Extra,GBC) R = 10%",Co-train,80.5555556
+166,acc,"Co(Extra,GBC) R = 10%",Co-train,75.9259259
+167,acc,"Co(Extra,GBC) R = 10%",Co-train,80.5555556
+168,acc,"Co(Extra,GBC) R = 10%",Co-train,82.4074074
+169,acc,"Co(Extra,GBC) R = 10%",Co-train,78.7037037
+170,acc,"Co(Extra,GBC) R = 10%",Co-train,77.7777778
+171,acc,"Co(Extra,GBC) R = 10%",Co-train,78.7037037
+172,acc,"Co(Extra,GBC) R = 10%",Co-train,80.5555556
+173,acc,"Co(Extra,GBC) R = 10%",Co-train,78.7037037
+174,acc,"Co(Extra,GBC) R = 10%",Co-train,85.1851852
+175,acc,"Co(Extra,GBC) R = 10%",Co-train,77.7777778
+176,acc,"Co(Extra,GBC) R = 10%",Co-train,77.7777778
+177,acc,"Co(Extra,GBC) R = 10%",Co-train,86.1111111
+178,acc,"Co(Extra,GBC) R = 10%",Co-train,87.962963
+179,acc,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+180,acc,"Co(Extra,GBC) R = 10%",Co-train,78.7037037
+181,acc,"Co(Extra,GBC) R = 10%",Co-train,86.1111111
+182,acc,"Co(Extra,GBC) R = 10%",Co-train,82.4074074
+183,acc,"Co(Extra,GBC) R = 10%",Co-train,82.4074074
+184,acc,"Co(Extra,GBC) R = 10%",Co-train,84.2592593
+185,acc,"Co(Extra,GBC) R = 10%",Co-train,82.4074074
+186,acc,"Co(Extra,GBC) R = 10%",Co-train,81.4814815
+187,acc,"Co(Extra,GBC) R = 10%",Co-train,85.1851852
+188,acc,"Co(Extra,GBC) R = 10%",Co-train,87.037037
+189,acc,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+190,acc,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+191,acc,"Co(Extra,GBC) R = 10%",Co-train,81.4814815
+192,acc,"Co(Extra,GBC) R = 10%",Co-train,86.1111111
+193,acc,"Co(Extra,GBC) R = 10%",Co-train,85.1851852
+194,acc,"Co(Extra,GBC) R = 10%",Co-train,84.2592593
+195,acc,"Co(Extra,GBC) R = 10%",Co-train,81.4814815
+196,acc,"Co(Extra,GBC) R = 10%",Co-train,78.7037037
+197,acc,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+198,acc,"Co(Extra,GBC) R = 10%",Co-train,87.962963
+199,acc,"Co(Extra,GBC) R = 10%",Co-train,79.6296296
+200,acc,"Co(Extra,GBC) R = 10%",Co-train,83.3333333
+201,acc,"Co(Extra,GBC) R = 2.5%",Co-train,77.7777778
+202,acc,"Co(Extra,GBC) R = 2.5%",Co-train,76.8518519
+203,acc,"Co(Extra,GBC) R = 2.5%",Co-train,74.0740741
+204,acc,"Co(Extra,GBC) R = 2.5%",Co-train,75.9259259
+205,acc,"Co(Extra,GBC) R = 2.5%",Co-train,76.8518519
+206,acc,"Co(Extra,GBC) R = 2.5%",Co-train,78.7037037
+207,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+208,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+209,acc,"Co(Extra,GBC) R = 2.5%",Co-train,75
+210,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+211,acc,"Co(Extra,GBC) R = 2.5%",Co-train,81.4814815
+212,acc,"Co(Extra,GBC) R = 2.5%",Co-train,79.6296296
+213,acc,"Co(Extra,GBC) R = 2.5%",Co-train,78.7037037
+214,acc,"Co(Extra,GBC) R = 2.5%",Co-train,83.3333333
+215,acc,"Co(Extra,GBC) R = 2.5%",Co-train,78.7037037
+216,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+217,acc,"Co(Extra,GBC) R = 2.5%",Co-train,87.037037
+218,acc,"Co(Extra,GBC) R = 2.5%",Co-train,83.3333333
+219,acc,"Co(Extra,GBC) R = 2.5%",Co-train,77.7777778
+220,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+221,acc,"Co(Extra,GBC) R = 2.5%",Co-train,79.6296296
+222,acc,"Co(Extra,GBC) R = 2.5%",Co-train,88.8888889
+223,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+224,acc,"Co(Extra,GBC) R = 2.5%",Co-train,85.1851852
+225,acc,"Co(Extra,GBC) R = 2.5%",Co-train,84.2592593
+226,acc,"Co(Extra,GBC) R = 2.5%",Co-train,78.7037037
+227,acc,"Co(Extra,GBC) R = 2.5%",Co-train,85.1851852
+228,acc,"Co(Extra,GBC) R = 2.5%",Co-train,80.5555556
+229,acc,"Co(Extra,GBC) R = 2.5%",Co-train,77.7777778
+230,acc,"Co(Extra,GBC) R = 2.5%",Co-train,77.7777778
+231,acc,"Co(Extra,GBC) R = 2.5%",Co-train,87.037037
+232,acc,"Co(Extra,GBC) R = 2.5%",Co-train,87.962963
+233,acc,"Co(Extra,GBC) R = 2.5%",Co-train,81.4814815
+234,acc,"Co(Extra,GBC) R = 2.5%",Co-train,82.4074074
+235,acc,"Co(Extra,GBC) R = 2.5%",Co-train,84.2592593
+236,acc,"Co(Extra,GBC) R = 2.5%",Co-train,83.3333333
+237,acc,"Co(Extra,GBC) R = 2.5%",Co-train,87.962963
+238,acc,"Co(Extra,GBC) R = 2.5%",Co-train,84.2592593
+239,acc,"Co(Extra,GBC) R = 2.5%",Co-train,81.4814815
+240,acc,"Co(Extra,GBC) R = 2.5%",Co-train,89.8148148
+241,f1,Extra,Supervised,80.8247622
+242,f1,Extra,Supervised,78.0555556
+243,f1,Extra,Supervised,77.3116531
+244,f1,Extra,Supervised,78.0555556
+245,f1,Extra,Supervised,82.7048768
+246,f1,Extra,Supervised,74.6214194
+247,f1,Extra,Supervised,78.8063161
+248,f1,Extra,Supervised,82.8432083
+249,f1,Extra,Supervised,79.2845528
+250,f1,Extra,Supervised,78.8063161
+251,f1,Extra,Supervised,80.3328468
+252,f1,Extra,Supervised,75.5134614
+253,f1,Extra,Supervised,78.8063161
+254,f1,Extra,Supervised,74.1221669
+255,f1,Extra,Supervised,82.4302135
+256,f1,Extra,Supervised,80.6957514
+257,f1,Extra,Supervised,84.040404
+258,f1,Extra,Supervised,84.95027
+259,f1,Extra,Supervised,79.7060537
+260,f1,Extra,Supervised,78.8063161
+261,f1,Extra,Supervised,82.769556
+262,f1,Extra,Supervised,83.5715673
+263,f1,Extra,Supervised,84.8616544
+264,f1,Extra,Supervised,80.478015
+265,f1,Extra,Supervised,80.8247622
+266,f1,Extra,Supervised,75.8405401
+267,f1,Extra,Supervised,81.6388105
+268,f1,Extra,Supervised,86.5532276
+269,f1,Extra,Supervised,86.8314862
+270,f1,Extra,Supervised,82.0454545
+271,f1,Extra,Supervised,85.7699805
+272,f1,Extra,Supervised,82.4302135
+273,f1,Extra,Supervised,84.8616544
+274,f1,Extra,Supervised,82.769556
+275,f1,Extra,Supervised,79.7719898
+276,f1,Extra,Supervised,78.0883534
+277,f1,Extra,Supervised,83.8726446
+278,f1,Extra,Supervised,88.0497508
+279,f1,Extra,Supervised,86.0044484
+280,f1,Extra,Supervised,80.8550623
+281,f1,GBC,Supervised,78.2626202
+282,f1,GBC,Supervised,72.0707071
+283,f1,GBC,Supervised,81.6388105
+284,f1,GBC,Supervised,80.3328468
+285,f1,GBC,Supervised,82.0454545
+286,f1,GBC,Supervised,76.78787
+287,f1,GBC,Supervised,82.8432083
+288,f1,GBC,Supervised,82.0454545
+289,f1,GBC,Supervised,78.0555556
+290,f1,GBC,Supervised,75.5134614
+291,f1,GBC,Supervised,86.3346105
+292,f1,GBC,Supervised,82.769556
+293,f1,GBC,Supervised,77.3116531
+294,f1,GBC,Supervised,84.382412
+295,f1,GBC,Supervised,78.5258165
+296,f1,GBC,Supervised,80.1646863
+297,f1,GBC,Supervised,88.7127025
+298,f1,GBC,Supervised,83.0690537
+299,f1,GBC,Supervised,83.8726446
+300,f1,GBC,Supervised,78.1806368
+301,f1,GBC,Supervised,84.382412
+302,f1,GBC,Supervised,87.4370809
+303,f1,GBC,Supervised,80.478015
+304,f1,GBC,Supervised,83.8726446
+305,f1,GBC,Supervised,79.7060537
+306,f1,GBC,Supervised,83.7711069
+307,f1,GBC,Supervised,85.7699805
+308,f1,GBC,Supervised,84.5791246
+309,f1,GBC,Supervised,86.8314862
+310,f1,GBC,Supervised,83.0690537
+311,f1,GBC,Supervised,88.5130374
+312,f1,GBC,Supervised,87.037037
+313,f1,GBC,Supervised,82.769556
+314,f1,GBC,Supervised,88.5130374
+315,f1,GBC,Supervised,83.2303523
+316,f1,GBC,Supervised,83.0690537
+317,f1,GBC,Supervised,87.6673164
+318,f1,GBC,Supervised,89.3004115
+319,f1,GBC,Supervised,88.2075659
+320,f1,GBC,Supervised,88.8888889
+321,f1,NB,Supervised,80.8550623
+322,f1,NB,Supervised,78.9405685
+323,f1,NB,Supervised,74.6214194
+324,f1,NB,Supervised,78.5258165
+325,f1,NB,Supervised,80.0505051
+326,f1,NB,Supervised,78.0555556
+327,f1,NB,Supervised,87.037037
+328,f1,NB,Supervised,81.1878375
+329,f1,NB,Supervised,78.1806368
+330,f1,NB,Supervised,79.6296296
+331,f1,NB,Supervised,80.478015
+332,f1,NB,Supervised,78.5258165
+333,f1,NB,Supervised,77.3116531
+334,f1,NB,Supervised,78.0555556
+335,f1,NB,Supervised,83.6520139
+336,f1,NB,Supervised,74.0656566
+337,f1,NB,Supervised,86.0044484
+338,f1,NB,Supervised,81.1878375
+339,f1,NB,Supervised,77.0260747
+340,f1,NB,Supervised,80.4062277
+341,f1,NB,Supervised,82.0454545
+342,f1,NB,Supervised,81.2574526
+343,f1,NB,Supervised,76.0606061
+344,f1,NB,Supervised,78.0555556
+345,f1,NB,Supervised,80.3328468
+346,f1,NB,Supervised,71.3929539
+347,f1,NB,Supervised,87.037037
+348,f1,NB,Supervised,82.5342512
+349,f1,NB,Supervised,78.5258165
+350,f1,NB,Supervised,80.4062277
+351,f1,NB,Supervised,82.0454545
+352,f1,NB,Supervised,81.2574526
+353,f1,NB,Supervised,75.3387534
+354,f1,NB,Supervised,78.5258165
+355,f1,NB,Supervised,80.3328468
+356,f1,NB,Supervised,75.3387534
+357,f1,NB,Supervised,87.037037
+358,f1,NB,Supervised,84.3727511
+359,f1,NB,Supervised,78.5258165
+360,f1,NB,Supervised,81.1878375
+361,f1,RF,Supervised,79.0123457
+362,f1,RF,Supervised,79.5650174
+363,f1,RF,Supervised,78.8063161
+364,f1,RF,Supervised,80.5429864
+365,f1,RF,Supervised,82.4030735
+366,f1,RF,Supervised,76.9135802
+367,f1,RF,Supervised,83.2303523
+368,f1,RF,Supervised,83.5715673
+369,f1,RF,Supervised,77.7732969
+370,f1,RF,Supervised,72.7160494
+371,f1,RF,Supervised,81.1111111
+372,f1,RF,Supervised,80.478015
+373,f1,RF,Supervised,81.6388105
+374,f1,RF,Supervised,82.0454545
+375,f1,RF,Supervised,80.478015
+376,f1,RF,Supervised,76.6740806
+377,f1,RF,Supervised,84.040404
+378,f1,RF,Supervised,86.8314862
+379,f1,RF,Supervised,85.5043241
+380,f1,RF,Supervised,75.3387534
+381,f1,RF,Supervised,80.0505051
+382,f1,RF,Supervised,79.5650174
+383,f1,RF,Supervised,81.2574526
+384,f1,RF,Supervised,82.8432083
+385,f1,RF,Supervised,81.6388105
+386,f1,RF,Supervised,76.2833008
+387,f1,RF,Supervised,86.0353535
+388,f1,RF,Supervised,87.3775276
+389,f1,RF,Supervised,83.5715673
+390,f1,RF,Supervised,76.0606061
+391,f1,RF,Supervised,83.5715673
+392,f1,RF,Supervised,82.8432083
+393,f1,RF,Supervised,83.6520139
+394,f1,RF,Supervised,80.8247622
+395,f1,RF,Supervised,79.2845528
+396,f1,RF,Supervised,81.9753086
+397,f1,RF,Supervised,83.2303523
+398,f1,RF,Supervised,83.5715673
+399,f1,RF,Supervised,85.5043241
+400,f1,RF,Supervised,81.1878375
+401,f1,5NN,Supervised,74.1221669
+402,f1,5NN,Supervised,74.0656566
+403,f1,5NN,Supervised,78.9405685
+404,f1,5NN,Supervised,78.5258165
+405,f1,5NN,Supervised,80.478015
+406,f1,5NN,Supervised,75.4780209
+407,f1,5NN,Supervised,83.0690537
+408,f1,5NN,Supervised,78.5258165
+409,f1,5NN,Supervised,78.0555556
+410,f1,5NN,Supervised,74.6214194
+411,f1,5NN,Supervised,76.78787
+412,f1,5NN,Supervised,81.1111111
+413,f1,5NN,Supervised,77.3116531
+414,f1,5NN,Supervised,74.6214194
+415,f1,5NN,Supervised,75.3387534
+416,f1,5NN,Supervised,75.3387534
+417,f1,5NN,Supervised,86.0044484
+418,f1,5NN,Supervised,83.3333333
+419,f1,5NN,Supervised,80.0505051
+420,f1,5NN,Supervised,75.8405401
+421,f1,5NN,Supervised,73.4345226
+422,f1,5NN,Supervised,74.6214194
+423,f1,5NN,Supervised,75.1802517
+424,f1,5NN,Supervised,76.0606061
+425,f1,5NN,Supervised,79.7060537
+426,f1,5NN,Supervised,72.9419335
+427,f1,5NN,Supervised,79.6296296
+428,f1,5NN,Supervised,79.3066212
+429,f1,5NN,Supervised,75.8405401
+430,f1,5NN,Supervised,70.0422697
+431,f1,5NN,Supervised,77.5215192
+432,f1,5NN,Supervised,79.2845528
+433,f1,5NN,Supervised,77.4254049
+434,f1,5NN,Supervised,77.3116531
+435,f1,5NN,Supervised,82.769556
+436,f1,5NN,Supervised,84.1383748
+437,f1,5NN,Supervised,81.9753086
+438,f1,5NN,Supervised,83.0690537
+439,f1,5NN,Supervised,78.5401542
+440,f1,5NN,Supervised,77.7777778
+441,acc,Extra,Supervised,82.4074074
+442,acc,Extra,Supervised,79.6296296
+443,acc,Extra,Supervised,78.7037037
+444,acc,Extra,Supervised,79.6296296
+445,acc,Extra,Supervised,85.1851852
+446,acc,Extra,Supervised,75.9259259
+447,acc,Extra,Supervised,80.5555556
+448,acc,Extra,Supervised,84.2592593
+449,acc,Extra,Supervised,80.5555556
+450,acc,Extra,Supervised,80.5555556
+451,acc,Extra,Supervised,82.4074074
+452,acc,Extra,Supervised,78.7037037
+453,acc,Extra,Supervised,80.5555556
+454,acc,Extra,Supervised,76.8518519
+455,acc,Extra,Supervised,83.3333333
+456,acc,Extra,Supervised,80.5555556
+457,acc,Extra,Supervised,85.1851852
+458,acc,Extra,Supervised,85.1851852
+459,acc,Extra,Supervised,80.5555556
+460,acc,Extra,Supervised,80.5555556
+461,acc,Extra,Supervised,83.3333333
+462,acc,Extra,Supervised,84.2592593
+463,acc,Extra,Supervised,86.1111111
+464,acc,Extra,Supervised,81.4814815
+465,acc,Extra,Supervised,82.4074074
+466,acc,Extra,Supervised,76.8518519
+467,acc,Extra,Supervised,82.4074074
+468,acc,Extra,Supervised,86.1111111
+469,acc,Extra,Supervised,87.037037
+470,acc,Extra,Supervised,83.3333333
+471,acc,Extra,Supervised,86.1111111
+472,acc,Extra,Supervised,83.3333333
+473,acc,Extra,Supervised,86.1111111
+474,acc,Extra,Supervised,83.3333333
+475,acc,Extra,Supervised,82.4074074
+476,acc,Extra,Supervised,77.7777778
+477,acc,Extra,Supervised,84.2592593
+478,acc,Extra,Supervised,87.962963
+479,acc,Extra,Supervised,86.1111111
+480,acc,Extra,Supervised,81.4814815
+481,acc,GBC,Supervised,80.5555556
+482,acc,GBC,Supervised,74.0740741
+483,acc,GBC,Supervised,82.4074074
+484,acc,GBC,Supervised,82.4074074
+485,acc,GBC,Supervised,83.3333333
+486,acc,GBC,Supervised,78.7037037
+487,acc,GBC,Supervised,84.2592593
+488,acc,GBC,Supervised,83.3333333
+489,acc,GBC,Supervised,79.6296296
+490,acc,GBC,Supervised,78.7037037
+491,acc,GBC,Supervised,87.037037
+492,acc,GBC,Supervised,83.3333333
+493,acc,GBC,Supervised,78.7037037
+494,acc,GBC,Supervised,85.1851852
+495,acc,GBC,Supervised,79.6296296
+496,acc,GBC,Supervised,79.6296296
+497,acc,GBC,Supervised,88.8888889
+498,acc,GBC,Supervised,83.3333333
+499,acc,GBC,Supervised,84.2592593
+500,acc,GBC,Supervised,78.7037037
+501,acc,GBC,Supervised,85.1851852
+502,acc,GBC,Supervised,87.962963
+503,acc,GBC,Supervised,81.4814815
+504,acc,GBC,Supervised,84.2592593
+505,acc,GBC,Supervised,80.5555556
+506,acc,GBC,Supervised,83.3333333
+507,acc,GBC,Supervised,86.1111111
+508,acc,GBC,Supervised,84.2592593
+509,acc,GBC,Supervised,87.037037
+510,acc,GBC,Supervised,83.3333333
+511,acc,GBC,Supervised,88.8888889
+512,acc,GBC,Supervised,87.037037
+513,acc,GBC,Supervised,83.3333333
+514,acc,GBC,Supervised,88.8888889
+515,acc,GBC,Supervised,84.2592593
+516,acc,GBC,Supervised,83.3333333
+517,acc,GBC,Supervised,87.962963
+518,acc,GBC,Supervised,88.8888889
+519,acc,GBC,Supervised,87.962963
+520,acc,GBC,Supervised,88.8888889
+521,acc,NB,Supervised,81.4814815
+522,acc,NB,Supervised,79.6296296
+523,acc,NB,Supervised,75.9259259
+524,acc,NB,Supervised,79.6296296
+525,acc,NB,Supervised,81.4814815
+526,acc,NB,Supervised,79.6296296
+527,acc,NB,Supervised,87.037037
+528,acc,NB,Supervised,81.4814815
+529,acc,NB,Supervised,78.7037037
+530,acc,NB,Supervised,79.6296296
+531,acc,NB,Supervised,81.4814815
+532,acc,NB,Supervised,79.6296296
+533,acc,NB,Supervised,78.7037037
+534,acc,NB,Supervised,79.6296296
+535,acc,NB,Supervised,85.1851852
+536,acc,NB,Supervised,75.9259259
+537,acc,NB,Supervised,86.1111111
+538,acc,NB,Supervised,81.4814815
+539,acc,NB,Supervised,77.7777778
+540,acc,NB,Supervised,80.5555556
+541,acc,NB,Supervised,83.3333333
+542,acc,NB,Supervised,82.4074074
+543,acc,NB,Supervised,77.7777778
+544,acc,NB,Supervised,79.6296296
+545,acc,NB,Supervised,82.4074074
+546,acc,NB,Supervised,73.1481481
+547,acc,NB,Supervised,87.037037
+548,acc,NB,Supervised,82.4074074
+549,acc,NB,Supervised,79.6296296
+550,acc,NB,Supervised,80.5555556
+551,acc,NB,Supervised,83.3333333
+552,acc,NB,Supervised,82.4074074
+553,acc,NB,Supervised,76.8518519
+554,acc,NB,Supervised,79.6296296
+555,acc,NB,Supervised,82.4074074
+556,acc,NB,Supervised,76.8518519
+557,acc,NB,Supervised,87.037037
+558,acc,NB,Supervised,84.2592593
+559,acc,NB,Supervised,79.6296296
+560,acc,NB,Supervised,81.4814815
+561,acc,RF,Supervised,81.4814815
+562,acc,RF,Supervised,81.4814815
+563,acc,RF,Supervised,80.5555556
+564,acc,RF,Supervised,83.3333333
+565,acc,RF,Supervised,84.2592593
+566,acc,RF,Supervised,79.6296296
+567,acc,RF,Supervised,84.2592593
+568,acc,RF,Supervised,84.2592593
+569,acc,RF,Supervised,78.7037037
+570,acc,RF,Supervised,75.9259259
+571,acc,RF,Supervised,83.3333333
+572,acc,RF,Supervised,81.4814815
+573,acc,RF,Supervised,82.4074074
+574,acc,RF,Supervised,83.3333333
+575,acc,RF,Supervised,81.4814815
+576,acc,RF,Supervised,76.8518519
+577,acc,RF,Supervised,85.1851852
+578,acc,RF,Supervised,87.037037
+579,acc,RF,Supervised,86.1111111
+580,acc,RF,Supervised,76.8518519
+581,acc,RF,Supervised,81.4814815
+582,acc,RF,Supervised,81.4814815
+583,acc,RF,Supervised,82.4074074
+584,acc,RF,Supervised,84.2592593
+585,acc,RF,Supervised,82.4074074
+586,acc,RF,Supervised,76.8518519
+587,acc,RF,Supervised,87.037037
+588,acc,RF,Supervised,87.037037
+589,acc,RF,Supervised,84.2592593
+590,acc,RF,Supervised,77.7777778
+591,acc,RF,Supervised,84.2592593
+592,acc,RF,Supervised,84.2592593
+593,acc,RF,Supervised,85.1851852
+594,acc,RF,Supervised,82.4074074
+595,acc,RF,Supervised,80.5555556
+596,acc,RF,Supervised,82.4074074
+597,acc,RF,Supervised,84.2592593
+598,acc,RF,Supervised,84.2592593
+599,acc,RF,Supervised,86.1111111
+600,acc,RF,Supervised,81.4814815
+601,acc,5NN,Supervised,76.8518519
+602,acc,5NN,Supervised,75.9259259
+603,acc,5NN,Supervised,79.6296296
+604,acc,5NN,Supervised,79.6296296
+605,acc,5NN,Supervised,81.4814815
+606,acc,5NN,Supervised,77.7777778
+607,acc,5NN,Supervised,83.3333333
+608,acc,5NN,Supervised,79.6296296
+609,acc,5NN,Supervised,79.6296296
+610,acc,5NN,Supervised,75.9259259
+611,acc,5NN,Supervised,78.7037037
+612,acc,5NN,Supervised,83.3333333
+613,acc,5NN,Supervised,78.7037037
+614,acc,5NN,Supervised,75.9259259
+615,acc,5NN,Supervised,76.8518519
+616,acc,5NN,Supervised,76.8518519
+617,acc,5NN,Supervised,86.1111111
+618,acc,5NN,Supervised,83.3333333
+619,acc,5NN,Supervised,81.4814815
+620,acc,5NN,Supervised,76.8518519
+621,acc,5NN,Supervised,75.9259259
+622,acc,5NN,Supervised,75.9259259
+623,acc,5NN,Supervised,75
+624,acc,5NN,Supervised,77.7777778
+625,acc,5NN,Supervised,80.5555556
+626,acc,5NN,Supervised,73.1481481
+627,acc,5NN,Supervised,79.6296296
+628,acc,5NN,Supervised,79.6296296
+629,acc,5NN,Supervised,76.8518519
+630,acc,5NN,Supervised,71.2962963
+631,acc,5NN,Supervised,79.6296296
+632,acc,5NN,Supervised,80.5555556
+633,acc,5NN,Supervised,77.7777778
+634,acc,5NN,Supervised,78.7037037
+635,acc,5NN,Supervised,83.3333333
+636,acc,5NN,Supervised,84.2592593
+637,acc,5NN,Supervised,82.4074074
+638,acc,5NN,Supervised,83.3333333
+639,acc,5NN,Supervised,78.7037037
+640,acc,5NN,Supervised,77.7777778

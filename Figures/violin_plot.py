@@ -7,13 +7,13 @@ import matplotlib.pyplot as plt
 # provide path
 #path = ...
 
-os.chdir()
+#os.chdir()
 df = pd.read_csv('for_violin_figure.csv')
 
 sns.set(style="whitegrid")
 
 plt.figure(figsize=(10, 5))
-ax = sns.violinplot(x="alg", y="score100", hue="metric", data = df, palette="muted", split = True, inner = 'quartile')
+ax = sns.violinplot(x="alg", y="score", hue="metric", data = df, palette="muted", split = True, inner = 'quartile')
 
 plt.legend(loc='lower left')
 plt.xticks(rotation=15)   
