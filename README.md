@@ -4,14 +4,26 @@ An implementation of the Co-training scheme, a well-known multi-view Semi-Superv
 
 ## Datasets
 
+A full description is provided on the related publication.
+More comments are going to be posted, after the acceptance of the submission.
+
 ## Citation
 
 Please cite this paper if you use our algorithm/datasets for your work.
 
 '''
+
 Submitted on http://ieee-edusociety.org/about/about-ieee-transactions-learning-technologies
 It is still under review.
 
 '''
 
-### Notes
+## Basic Dependencies
+
+* Python 2.7
+
+* Python dependencies
+```
+pip install -r requirements.txt
+
+```
