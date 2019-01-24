@@ -27,7 +27,7 @@ It is still under review.
 pip install -r requirements.txt
 
 ```
-
+* Python 3.x
 * Python dependencies for visualizations algorithm
 ```
 pip install -r requirements_draw.txt
