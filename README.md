@@ -22,8 +22,14 @@ It is still under review.
 
 * Python 2.7
 
-* Python dependencies
+* Python dependencies for main algorithm
 ```
 pip install -r requirements.txt
 
 ```
+* Python dependencies for visualizations algorithm
+```
+pip install -r requirements_draw.txt
+
+```
+
