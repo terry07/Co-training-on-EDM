@@ -1,6 +1,6 @@
 # Co-training algorithm on Educational Data Mining 
 An implementation of the *Co-training* scheme, a well-known multi-view Semi-Supervised Learning approach, applied on Educational Data Mining datasets related with the task of Early Prognosis of Academic Performance.
-Apart from the proposed algorithm **Cotrain(Extra, GBC)**, the results of several other variant of Co-training scheme are provided, as well as the results of *Self-training* approaches. Moreover, the results of the *CoForest* algorithm (implemented by  Mr. Ming Li (lim@lamda.nju.edu.cn) link: [Github]http://lamda.nju.edu.cn/code_CoForest.ashx) have been computed for the same datasets' splits and same seeds.
+Apart from the proposed algorithm **Cotrain(Extra, GBC)**, the results of several other variant of Co-training scheme are provided, as well as the results of *Self-training* approaches. Moreover, the results of the *CoForest* algorithm (implemented by  *Mr. Ming Li* (lim@lamda.nju.edu.cn) link: [Github](http://lamda.nju.edu.cn/code_CoForest.ashx) have been computed for the same datasets' splits and same seeds.
 
 
 ## Datasets
