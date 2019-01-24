@@ -35,4 +35,6 @@ pip install -r requirements.txt
 pip install -r requirements_draw.txt
 
 ```
+## Notes
 
+More information about the authors are provided in [ml.math.upatras.gr](http://ml.math.upatras.gr/)
