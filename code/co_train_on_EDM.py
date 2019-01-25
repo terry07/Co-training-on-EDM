@@ -155,7 +155,7 @@ for upool_size in upool_size_list:
 
        for w in learnersX:
         
-        print ('Dataset: %s, Labeled Ratio = %d %%, Learner of two views: %s, fold: %d' %(ff, 100*(1-upool_size), str(w)[0 : str(w).find('(')], ww))
+        print ('Dataset: %s, Labeled Ratio = %5.3f %%, Learner of two views: %s, fold: %d' %(ff, 100*(1-upool_size), str(w)[0 : str(w).find('(')], ww))
         learner1 = learner2 = learner_intermediate = w
  
         ind = StratifiedShuffleSplit(n_splits=1, test_size = original_test_size, random_state = rs1)
