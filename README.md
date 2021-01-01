@@ -21,24 +21,24 @@ Our binary dataset consists of 1073 instances, where 4 variants of it are create
 
 Please cite the following paper if you use our algorithm/datasets for your work.
 
-'''
-@article{DBLP:journals/tlt/KostopoulosKK19,
-  author    = {Georgios Kostopoulos and
-               Stamatis Karlos and
-               Sotiris Kotsiantis},
-  title     = {Multiview Learning for Early Prognosis of Academic Performance: {A}
-               Case Study},
-  journal   = {{IEEE} Trans. Learn. Technol.},
-  volume    = {12},
-  number    = {2},
-  pages     = {212--224},
-  year      = {2019},
-  url       = {https://doi.org/10.1109/TLT.2019.2911581},
-  doi       = {10.1109/TLT.2019.2911581},
-  timestamp = {Fri, 03 Apr 2020 13:47:12 +0200},
-  biburl    = {https://dblp.org/rec/journals/tlt/KostopoulosKK19.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+
+      @article{DBLP:journals/tlt/KostopoulosKK19,
+        author    = {Georgios Kostopoulos and
+                     Stamatis Karlos and
+                     Sotiris Kotsiantis},
+        title     = {Multiview Learning for Early Prognosis of Academic Performance: {A}
+                     Case Study},
+        journal   = {{IEEE} Trans. Learn. Technol.},
+        volume    = {12},
+        number    = {2},
+        pages     = {212--224},
+        year      = {2019},
+        url       = {https://doi.org/10.1109/TLT.2019.2911581},
+        doi       = {10.1109/TLT.2019.2911581},
+        timestamp = {Fri, 03 Apr 2020 13:47:12 +0200},
+        biburl    = {https://dblp.org/rec/journals/tlt/KostopoulosKK19.bib},
+        bibsource = {dblp computer science bibliography, https://dblp.org}
+      }
 
 Submitted on http://ieee-edusociety.org/about/about-ieee-transactions-learning-technologies
 
@@ -47,7 +47,6 @@ IEEE repository: https://ieeexplore.ieee.org/document/8692618
 Georgios Kostopoulos, Stamatis Karlos, Sotiris Kotsiantis:
 Multiview Learning for Early Prognosis of Academic Performance: A Case Study. TLT 12(2): 212-224 (2019)
 
-'''
 
 ## Basic Dependencies
 
@@ -65,9 +64,9 @@ pip install -r requirements.txt
 pip install -r requirements_draw.txt
 
 ```
-## Notes
+## Notes - Members
 
-More information about the authors are provided in [ml.math.upatras.gr](http://ml.math.upatras.gr/)
+More information about the authors are provided in [ml.math.upatras.gr](http://ml.math.upatras.gr/).
 
 - George Kostopoulos: kostg@sch.gr
 - Stamatis Karlos: stkarlos@upatras.gr
