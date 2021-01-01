@@ -1,4 +1,8 @@
 # Co-training algorithm on Educational Data Mining 
+
+![EDM_cotraining_splits](https://user-images.githubusercontent.com/6009931/103440685-5d385680-4c50-11eb-874c-7c2bdcbae785.png)
+
+                                                                       
 An implementation of the *Co-training* scheme, a well-known multi-view Semi-Supervised Learning approach, applied on Educational Data Mining (**EDM**) datasets related with the task of _Early Prognosis of Academic Performance_ is provided here. A specific split of the feature vector is applied each time based on the two separate views that exist into the original data. Thus, we are not based on random feature split, but we examine the efficacy of fitting a *Co-training* scheme on two independent views (verified by correlation test on our datasets). 
 
 Apart from the proposed algorithm **Cotrain(Extra, GBC)**, the results of several other variants of *Co-training* scheme are provided, as well as the results of *Self-training* approaches. Moreover, the results of the *CoForest* algorithm (implemented by  *Mr. Ming Li* lim@lamda.nju.edu.cn - [link](http://lamda.nju.edu.cn/code_CoForest.ashx)) have been computed for the same datasets' splits. Fixed number of seeds are provided for verifying the results that are demonstrated into the original publication.
